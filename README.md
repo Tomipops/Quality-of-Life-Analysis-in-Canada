@@ -1,5 +1,6 @@
 # Quality-of-Life-Analysis-in-Canada
 Analysis of Mental Health and Discrimination Using R Programming.
+
 Introduction:
 This project explores two quality-of-life metrics in Canada: Mental Health and Discrimination under Good Governance. It uses data from Statistics Canada to uncover insights into demographic trends, workplace discrimination, and mental health perceptions, leveraging R programming for data cleaning, analysis, and visualization.
 
