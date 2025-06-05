@@ -12,6 +12,7 @@ Examine mental health perceptions across different age groups.
 Tools and Technologies:
 R Programming
 Libraries: dplyr, ggplot2, tidyverse
+
 Data Source: Statistics Canada
 
 Key Findings:
